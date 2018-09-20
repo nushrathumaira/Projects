@@ -16,7 +16,7 @@ blank       [ ]
 [cC]             {text+= "{"; }
 [dD]            {text+= "|}"; }
 [eE]             {text+= "&"; }
-[eF]             {text+= "|#"; }
+[fF]             {text+= "|#"; }
 [gG]             {text+= "[+"; }
 [hH]             {text+= "{=}"; }
 [iI]             {text+= "|"; }
