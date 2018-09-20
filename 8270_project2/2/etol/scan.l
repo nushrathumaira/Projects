@@ -15,7 +15,7 @@ blank       [ ]
 [bB]             {text+="|3"; }
 [cC]             {text+= "{"; }
 [dD]            {text+= "|}"; }
-[eE]             {text+= "&"; }
+[eE]             {text+= "'&,"; }
 [fF]             {text+= "|#"; }
 [gG]             {text+= "[+"; }
 [hH]             {text+= "{=}"; }
@@ -32,7 +32,7 @@ blank       [ ]
 [sS]             { text += "$";}
 [tT]             { text += "'|'";}
 [uU]             { text += "{_}";}
-[vV]             { text += "\\/";}
+[vV]             { text += "~\\/~";}
 [wW]             { text += "\\X/";}
 [xX]             { text += "}{";}
 [yY]             { text += "'/";}

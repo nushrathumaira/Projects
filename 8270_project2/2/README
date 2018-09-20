@@ -1,20 +1,20 @@
-Name:
+Name: Nushrat Humaira
 
-Course no: CpSc 8270
+Course no: CPSC 8270
 
-Clemson Email Address:
+Clemson Email Address: nhumair@g.clemson.edu
 
-Project no:
+Project no: 2
 
-Project due date:
+Project due date: September 21st, 2018
 
-Project description:
-
-
-What I have done to augment the leet obfuscation is:
+Project description: Using flex, we had to built a translator(etol) for converting english text to l337(leet) alphabet and back to english text with another translator(ltoe).
 
 
+What I have done to augment the leet obfuscation is: used advanced l337 alphabet where lettes are more obscure and contains more than one character for each letter in alphabet. For some letters, there was only one corresponding leet symbol that is common, such as e and v, so I defined my own leet symbol for them. I defined the symbol "'&," for e and "~\/~" for v. 
 
-The easiest part of this project:
 
-Problems that I had in completing this project:
+
+The easiest part of this project: finding leet codes online
+
+Problems that I had in completing this project:  How to preserve the caps when converting back to english from leet was what I found most challenging. I also thought if I should use a FIFO data structure like queue to store the alphabet strings, which would call push_back operation on the underlying container, so thought to use += opeator instead.
